@@ -1,6 +1,6 @@
 # Array.from()方法
 
-### 作用：根据一个类数组或可迭代对象创建一个新的数组实例
+**作用：根据一个类数组或可迭代对象创建一个新的数组实例**
 
 ### 语法
 > Array.from(arrayLike,-mapFn,-thisArgs)
