@@ -3,6 +3,9 @@
 ### 作用：根据一个类数组或可迭代对象创建一个新的数组实例
 
 ### 语法
+
+Array.from(arrayLike,mapFn*,thisArgs*)
+
 1. arrayLike
     想要转换成数组的类数组或可迭代对象
 2. mapFn(可选)
