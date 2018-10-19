@@ -4,7 +4,7 @@
 
 ### 语法
 
-Array.from(arrayLike,mapFn*,thisArgs*)
+Array.from(arrayLike,-mapFn,-thisArgs)
 
 1. arrayLike
     想要转换成数组的类数组或可迭代对象
